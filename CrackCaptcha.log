@@ -1,0 +1,270 @@
+2014-05-20 15:06:15.689 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Enter Login
+2014-05-20 15:06:15.696 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(40222717:123) success(socket=1384): connect return: 0
+2014-05-20 15:06:15.697 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1379869905:123) success(socket=1408): connect return: 0
+2014-05-20 15:06:15.708 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1977258716:123) success(socket=1348): connect return: 0
+2014-05-20 15:06:15.720 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1738919466:80) success(socket=1440)
+2014-05-20 15:06:15.759 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(767859073:123) success(socket=1356): connect return: 0
+2014-05-20 15:06:15.761 Level=2 class=TimeSync                  Func=RequestITime              Err=0         	Synchronize time success by time.dama2.com:123
+2014-05-20 15:06:15.761 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	[1]request: seq=1, cmd=144
+2014-05-20 15:06:15.823 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(297496098:9051) success(socket=1484)
+2014-05-20 15:06:15.829 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:9051) success(socket=1536)
+2014-05-20 15:06:15.851 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:9936) failed(socket=1544, time=1400569575)
+2014-05-20 15:06:15.852 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:8968) failed(socket=1428, time=1400569575)
+2014-05-20 15:06:15.853 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(297496098:9936) failed(socket=1468, time=1400569575)
+2014-05-20 15:06:15.854 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(297496098:8968) failed(socket=1460, time=1400569575)
+2014-05-20 15:06:15.856 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	send data ok
+2014-05-20 15:06:15.894 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data(len= 90)
+2014-05-20 15:06:15.894 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data ok
+2014-05-20 15:06:15.895 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	RequestServer Success
+2014-05-20 15:06:15.913 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9051) success(socket=1408)
+2014-05-20 15:06:15.929 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9936) failed(socket=1468, time=1400569575)
+2014-05-20 15:06:15.930 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8968) failed(socket=1480, time=1400569575)
+2014-05-20 15:06:15.931 Level=0 class=CCrackCaptchaClient       Func=OnSocketAccepting         Err=0         	[2]connected to server(ip=-540850807, port=9051)
+2014-05-20 15:06:15.933 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Enter InnerLogin
+2014-05-20 15:06:15.934 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	[2]request: seq=2, cmd=48
+2014-05-20 15:06:15.935 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=186)
+2014-05-20 15:06:15.979 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=2, cmd=48, rsp=173
+2014-05-20 15:06:15.980 Level=1 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	RespCode=173(seq=2)
+2014-05-20 15:06:15.980 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Exit InnerLogin(used 47ms)
+2014-05-20 15:06:15.981 Level=0 class=CCrackCaptchaClient       Func=Login                     Err=-1210     	Inner login failed
+2014-05-20 15:06:15.982 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Exit Login(used 297ms)
+2014-05-20 15:09:27.269 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Enter Login
+2014-05-20 15:09:27.283 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1977258716:123) success(socket=1376): connect return: 0
+2014-05-20 15:09:27.287 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(767859073:123) success(socket=1384): connect return: 0
+2014-05-20 15:09:27.289 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(416110668:123) success(socket=1416): connect return: 0
+2014-05-20 15:09:27.292 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(632028295:123) success(socket=1468): connect return: 0
+2014-05-20 15:09:27.313 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1738919466:80) failed(socket=1476, time=1400569767)
+2014-05-20 15:09:27.315 Level=2 class=TimeSync                  Func=RequestITime              Err=0         	Synchronize time success by time.dama2.com:123
+2014-05-20 15:09:27.316 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	[1]request: seq=1, cmd=144
+2014-05-20 15:09:27.362 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1462473438:9936) success(socket=1476)
+2014-05-20 15:09:27.364 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1547997662:9936) success(socket=1500)
+2014-05-20 15:09:27.393 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1547997662:8315) failed(socket=1392, time=1400569767)
+2014-05-20 15:09:27.394 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1547997662:9051) failed(socket=1372, time=1400569767)
+2014-05-20 15:09:27.397 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1462473438:8315) failed(socket=1420, time=1400569767)
+2014-05-20 15:09:27.397 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1462473438:9051) failed(socket=1468, time=1400569767)
+2014-05-20 15:09:27.398 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	send data ok
+2014-05-20 15:09:27.433 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data(len= 90)
+2014-05-20 15:09:27.433 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data ok
+2014-05-20 15:09:27.434 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	RequestServer Success
+2014-05-20 15:09:27.452 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9936) success(socket=1392)
+2014-05-20 15:09:27.468 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9051) failed(socket=1500, time=1400569767)
+2014-05-20 15:09:27.469 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8315) failed(socket=1348, time=1400569767)
+2014-05-20 15:09:27.471 Level=0 class=CCrackCaptchaClient       Func=OnSocketAccepting         Err=0         	[2]connected to server(ip=-540850807, port=9936)
+2014-05-20 15:09:27.471 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Enter InnerLogin
+2014-05-20 15:09:27.472 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	[2]request: seq=2, cmd=48
+2014-05-20 15:09:27.473 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=186)
+2014-05-20 15:09:27.519 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=2, cmd=48, rsp=173
+2014-05-20 15:09:27.520 Level=1 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	RespCode=173(seq=2)
+2014-05-20 15:09:27.520 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Exit InnerLogin(used 63ms)
+2014-05-20 15:09:27.521 Level=0 class=CCrackCaptchaClient       Func=Login                     Err=-1210     	Inner login failed
+2014-05-20 15:09:27.521 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Exit Login(used 250ms)
+2014-05-20 15:12:42.622 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Enter Login
+2014-05-20 15:12:42.632 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1977258716:123) success(socket=1384): connect return: 0
+2014-05-20 15:12:42.637 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(767859073:123) success(socket=1392): connect return: 0
+2014-05-20 15:12:42.644 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(191015207:123) success(socket=1404): connect return: 0
+2014-05-20 15:12:42.646 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(632028295:123) success(socket=1468): connect return: 0
+2014-05-20 15:12:42.663 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1738919466:80) failed(socket=1488, time=1400569962)
+2014-05-20 15:12:42.665 Level=2 class=TimeSync                  Func=RequestITime              Err=0         	Synchronize time success by time.dama2.com:123
+2014-05-20 15:12:42.666 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	[1]request: seq=1, cmd=144
+2014-05-20 15:12:42.710 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:8315) success(socket=1424)
+2014-05-20 15:12:42.712 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:8315) success(socket=1488)
+2014-05-20 15:12:42.738 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:9750) failed(socket=1620, time=1400569962)
+2014-05-20 15:12:42.739 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:9936) failed(socket=1472, time=1400569962)
+2014-05-20 15:12:42.740 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:9750) failed(socket=1392, time=1400569962)
+2014-05-20 15:12:42.742 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:9936) failed(socket=1504, time=1400569962)
+2014-05-20 15:12:42.744 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	send data ok
+2014-05-20 15:12:42.775 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data(len= 90)
+2014-05-20 15:12:42.776 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data ok
+2014-05-20 15:12:42.777 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	RequestServer Success
+2014-05-20 15:12:42.794 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8315) success(socket=1672)
+2014-05-20 15:12:43.021 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9750) failed(socket=1504, time=1400569962)
+2014-05-20 15:12:43.022 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9936) failed(socket=1664, time=1400569962)
+2014-05-20 15:12:43.023 Level=0 class=CCrackCaptchaClient       Func=OnSocketAccepting         Err=0         	[2]connected to server(ip=-540850807, port=8315)
+2014-05-20 15:12:43.024 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Enter InnerLogin
+2014-05-20 15:12:43.026 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	[2]request: seq=2, cmd=48
+2014-05-20 15:12:43.026 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=186)
+2014-05-20 15:12:43.231 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=2, cmd=48, rsp=0
+2014-05-20 15:12:43.233 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	test login(softname=test)
+2014-05-20 15:12:43.233 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Exit InnerLogin(used 203ms)
+2014-05-20 15:12:43.234 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Exit Login(used 609ms)
+2014-05-20 15:12:43.259 Level=2 class=CCrackCaptchaClient       Func=RequestDecode             Err=0         	start decode: datalen=2087, ext=GIF, len=0, timeout=120, type=101
+2014-05-20 15:12:43.261 Level=3 class=CCrackCaptchaClient       Func=RequestDecode             Err=0         	Exit RequestDecode(used 0ms)
+2014-05-20 15:12:43.262 Level=2 class=CCrackCaptchaClient       Func=GetDecodeResult           Err=0         	start GetResult: processID=3, uTimeout=120000
+2014-05-20 15:12:43.263 Level=0 class=CCrackCaptchaClient       Func=UploadFileThreadFunc      Err=0         	start upload file ...
+2014-05-20 15:12:43.263 Level=2 class=CCrackCaptchaClient       Func=UploadFile                Err=0         	[2]request: seq=4, cmd=59
+2014-05-20 15:12:43.264 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=2189)
+2014-05-20 15:12:43.284 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=4, cmd=59, rsp=0
+2014-05-20 15:12:43.285 Level=0 class=CCrackCaptchaClient       Func=UploadFileThreadFunc      Err=0         	end upload file ...
+2014-05-20 15:12:43.358 Level=2 class=CCrackCaptchaClient       Func=UploadFileThreadFunc      Err=0         	[2]request: seq=3, cmd=53
+2014-05-20 15:12:43.359 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=283)
+2014-05-20 15:12:43.497 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=3, cmd=53, rsp=214
+2014-05-20 15:12:43.498 Level=1 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	RespCode=214(seq=3)
+2014-05-20 15:12:43.499 Level=0 class=CCrackCaptchaClient       Func=GetDecodeResult           Err=-1210     	GetResult Error: processID=3
+2014-05-20 15:17:21.001 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Enter Login
+2014-05-20 15:17:21.015 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(450761251:123) success(socket=1436): connect return: 0
+2014-05-20 15:17:21.017 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(632028295:123) success(socket=1464): connect return: 0
+2014-05-20 15:17:21.040 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1738919466:80) success(socket=1488)
+2014-05-20 15:17:21.079 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(767859073:123) success(socket=1392): connect return: 0
+2014-05-20 15:17:21.389 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1977258716:123) success(socket=1384): connect return: 0
+2014-05-20 15:17:21.390 Level=2 class=TimeSync                  Func=RequestITime              Err=0         	Synchronize time success by open.baidu.com:80
+2014-05-20 15:17:21.391 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	[1]request: seq=1, cmd=144
+2014-05-20 15:17:21.470 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:9750) success(socket=1548)
+2014-05-20 15:17:21.471 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1547997662:9750) success(socket=1580)
+2014-05-20 15:17:21.498 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1547997662:9465) failed(socket=1368, time=1400570241)
+2014-05-20 15:17:21.499 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:8315) failed(socket=940, time=1400570241)
+2014-05-20 15:17:21.500 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1547997662:8315) failed(socket=1568, time=1400570241)
+2014-05-20 15:17:21.501 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:9465) failed(socket=1556, time=1400570241)
+2014-05-20 15:17:21.502 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	send data ok
+2014-05-20 15:17:21.533 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data(len= 90)
+2014-05-20 15:17:21.534 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data ok
+2014-05-20 15:17:21.534 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	RequestServer Success
+2014-05-20 15:17:21.551 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9750) success(socket=1644)
+2014-05-20 15:17:21.568 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9465) failed(socket=1660, time=1400570241)
+2014-05-20 15:17:21.569 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8315) failed(socket=1604, time=1400570241)
+2014-05-20 15:17:21.570 Level=0 class=CCrackCaptchaClient       Func=OnSocketAccepting         Err=0         	[2]connected to server(ip=-540850807, port=9750)
+2014-05-20 15:17:21.571 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Enter InnerLogin
+2014-05-20 15:17:21.572 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	[2]request: seq=2, cmd=48
+2014-05-20 15:17:21.572 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=186)
+2014-05-20 15:17:21.617 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=2, cmd=48, rsp=173
+2014-05-20 15:17:21.619 Level=1 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	RespCode=173(seq=2)
+2014-05-20 15:17:21.620 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Exit InnerLogin(used 47ms)
+2014-05-20 15:17:21.621 Level=0 class=CCrackCaptchaClient       Func=Login                     Err=-1210     	Inner login failed
+2014-05-20 15:17:21.621 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Exit Login(used 625ms)
+2014-05-20 15:19:54.543 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Enter Login
+2014-05-20 15:19:54.553 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1977258716:123) success(socket=1368): connect return: 0
+2014-05-20 15:19:54.554 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(767859073:123) success(socket=1380): connect return: 0
+2014-05-20 15:19:54.557 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1556788881:123) success(socket=1428): connect return: 0
+2014-05-20 15:19:54.561 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-424537516:123) success(socket=1436): connect return: 0
+2014-05-20 15:19:54.582 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1738919466:80) success(socket=1484)
+2014-05-20 15:19:54.593 Level=2 class=TimeSync                  Func=RequestITime              Err=0         	Synchronize time success by time.dama2.com:123
+2014-05-20 15:19:54.594 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	[1]request: seq=1, cmd=144
+2014-05-20 15:19:54.668 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:9465) success(socket=1468)
+2014-05-20 15:19:54.669 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:9465) success(socket=1484)
+2014-05-20 15:19:54.698 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:8043) failed(socket=1456, time=1400570394)
+2014-05-20 15:19:54.700 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:9750) failed(socket=1360, time=1400570394)
+2014-05-20 15:19:54.701 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:8043) failed(socket=1416, time=1400570394)
+2014-05-20 15:19:54.702 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1939303714:9750) failed(socket=1436, time=1400570394)
+2014-05-20 15:19:54.703 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	send data ok
+2014-05-20 15:19:55.020 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data(len= 90)
+2014-05-20 15:19:55.021 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data ok
+2014-05-20 15:19:55.022 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	RequestServer Success
+2014-05-20 15:19:55.040 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9465) success(socket=1456)
+2014-05-20 15:19:55.057 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9750) failed(socket=1360, time=1400570395)
+2014-05-20 15:19:55.059 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8043) failed(socket=1500, time=1400570395)
+2014-05-20 15:19:55.061 Level=0 class=CCrackCaptchaClient       Func=OnSocketAccepting         Err=0         	[2]connected to server(ip=-540850807, port=9465)
+2014-05-20 15:19:55.062 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Enter InnerLogin
+2014-05-20 15:19:55.064 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	[2]request: seq=2, cmd=48
+2014-05-20 15:19:55.066 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=186)
+2014-05-20 15:19:55.110 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=2, cmd=48, rsp=173
+2014-05-20 15:19:55.111 Level=1 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	RespCode=173(seq=2)
+2014-05-20 15:19:55.111 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Exit InnerLogin(used 47ms)
+2014-05-20 15:19:55.111 Level=0 class=CCrackCaptchaClient       Func=Login                     Err=-1210     	Inner login failed
+2014-05-20 15:19:55.112 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Exit Login(used 563ms)
+2014-05-20 15:22:56.357 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Enter Login
+2014-05-20 15:22:56.364 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1977258716:123) success(socket=1380): connect return: 0
+2014-05-20 15:22:56.366 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(767859073:123) success(socket=1388): connect return: 0
+2014-05-20 15:22:56.372 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(269162989:123) success(socket=1420): connect return: 0
+2014-05-20 15:22:56.373 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-424537516:123) success(socket=1432): connect return: 0
+2014-05-20 15:22:56.395 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1738919466:80) success(socket=1492)
+2014-05-20 15:22:56.397 Level=2 class=TimeSync                  Func=RequestITime              Err=0         	Synchronize time success by time.dama2.com:123
+2014-05-20 15:22:56.398 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	[1]request: seq=1, cmd=144
+2014-05-20 15:22:56.459 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(297496098:8043) success(socket=1380)
+2014-05-20 15:22:56.461 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1507093794:8043) success(socket=1400)
+2014-05-20 15:22:56.489 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1507093794:9204) failed(socket=1548, time=1400570576)
+2014-05-20 15:22:56.493 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1507093794:9465) failed(socket=1412, time=1400570576)
+2014-05-20 15:22:56.494 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(297496098:9204) failed(socket=1484, time=1400570576)
+2014-05-20 15:22:56.495 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(297496098:9465) failed(socket=1492, time=1400570576)
+2014-05-20 15:22:56.496 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	send data ok
+2014-05-20 15:22:56.534 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data(len= 90)
+2014-05-20 15:22:56.534 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data ok
+2014-05-20 15:22:56.535 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	RequestServer Success
+2014-05-20 15:22:56.553 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8043) success(socket=1548)
+2014-05-20 15:22:56.569 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9204) failed(socket=1488, time=1400570576)
+2014-05-20 15:22:56.570 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:9465) failed(socket=1400, time=1400570576)
+2014-05-20 15:22:56.572 Level=0 class=CCrackCaptchaClient       Func=OnSocketAccepting         Err=0         	[2]connected to server(ip=-540850807, port=8043)
+2014-05-20 15:22:56.573 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Enter InnerLogin
+2014-05-20 15:22:56.574 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	[2]request: seq=2, cmd=48
+2014-05-20 15:22:56.575 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=186)
+2014-05-20 15:22:56.620 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=2, cmd=48, rsp=173
+2014-05-20 15:22:56.621 Level=1 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	RespCode=173(seq=2)
+2014-05-20 15:22:56.622 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Exit InnerLogin(used 47ms)
+2014-05-20 15:22:56.622 Level=0 class=CCrackCaptchaClient       Func=Login                     Err=-1210     	Inner login failed
+2014-05-20 15:22:56.623 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Exit Login(used 266ms)
+2014-05-20 15:42:18.798 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Enter Login
+2014-05-20 15:42:18.812 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(842143791:123) success(socket=1424): connect return: 0
+2014-05-20 15:42:18.814 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1379869905:123) success(socket=1432): connect return: 0
+2014-05-20 15:42:18.819 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1977258716:123) success(socket=1388): connect return: 0
+2014-05-20 15:42:18.836 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1738919466:80) success(socket=1468)
+2014-05-20 15:42:18.865 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(767859073:123) success(socket=1396): connect return: 0
+2014-05-20 15:42:18.866 Level=2 class=TimeSync                  Func=RequestITime              Err=0         	Synchronize time success by time.dama2.com:123
+2014-05-20 15:42:18.866 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	[1]request: seq=1, cmd=144
+2014-05-20 15:42:18.913 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1462473438:8677) success(socket=1484)
+2014-05-20 15:42:18.916 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1489136930:8677) success(socket=1556)
+2014-05-20 15:42:18.942 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1489136930:8043) failed(socket=1412, time=1400571738)
+2014-05-20 15:42:18.944 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1489136930:8117) failed(socket=1540, time=1400571738)
+2014-05-20 15:42:18.946 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1462473438:8043) failed(socket=1276, time=1400571738)
+2014-05-20 15:42:18.947 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1462473438:8117) failed(socket=1464, time=1400571738)
+2014-05-20 15:42:18.948 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	send data ok
+2014-05-20 15:42:18.983 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data(len= 90)
+2014-05-20 15:42:18.984 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data ok
+2014-05-20 15:42:18.984 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	RequestServer Success
+2014-05-20 15:42:19.000 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8677) success(socket=1572)
+2014-05-20 15:42:19.013 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8043) failed(socket=1588, time=1400571738)
+2014-05-20 15:42:19.014 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8117) failed(socket=1468, time=1400571738)
+2014-05-20 15:42:19.015 Level=0 class=CCrackCaptchaClient       Func=OnSocketAccepting         Err=0         	[2]connected to server(ip=-540850807, port=8677)
+2014-05-20 15:42:19.016 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Enter InnerLogin
+2014-05-20 15:42:19.017 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	[2]request: seq=2, cmd=48
+2014-05-20 15:42:19.018 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=186)
+2014-05-20 15:42:19.067 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=2, cmd=48, rsp=174
+2014-05-20 15:42:19.067 Level=1 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	RespCode=174(seq=2)
+2014-05-20 15:42:19.068 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Exit InnerLogin(used 63ms)
+2014-05-20 15:42:19.069 Level=0 class=CCrackCaptchaClient       Func=Login                     Err=-1210     	Inner login failed
+2014-05-20 15:42:19.069 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Exit Login(used 282ms)
+2014-05-20 15:49:18.377 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Enter Login
+2014-05-20 15:49:18.386 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-1977258716:123) success(socket=1380): connect return: 0
+2014-05-20 15:49:18.387 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(767859073:123) success(socket=1388): connect return: 0
+2014-05-20 15:49:18.391 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(709192579:123) success(socket=1440): connect return: 0
+2014-05-20 15:49:18.392 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(507664176:123) success(socket=1460): connect return: 0
+2014-05-20 15:49:18.414 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1738919466:80) success(socket=1492)
+2014-05-20 15:49:18.418 Level=2 class=TimeSync                  Func=RequestITime              Err=0         	Synchronize time success by time.dama2.com:123
+2014-05-20 15:49:18.419 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	[1]request: seq=1, cmd=144
+2014-05-20 15:49:18.422 Level=3 class=CMySocket                 Func=Connect                   Err=-132      	events.lNetworkEvents(16) & 16 != 0 (socket=1460, err=10049)
+2014-05-20 15:49:18.423 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(20140207:8043) failed(socket=1460, time=1400572158)
+2014-05-20 15:49:18.425 Level=3 class=CMySocket                 Func=Connect                   Err=-132      	events.lNetworkEvents(16) & 16 != 0 (socket=1068, err=10049)
+2014-05-20 15:49:18.425 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(20140207:8354) failed(socket=1068, time=1400572158)
+2014-05-20 15:49:18.426 Level=3 class=CMySocket                 Func=Connect                   Err=-132      	events.lNetworkEvents(16) & 16 != 0 (socket=1492, err=10049)
+2014-05-20 15:49:18.426 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(20140207:8135) failed(socket=1492, time=1400572158)
+2014-05-20 15:49:18.465 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:8135) success(socket=1496)
+2014-05-20 15:49:18.494 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:8354) failed(socket=1412, time=1400572158)
+2014-05-20 15:49:18.496 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(1693561049:8043) failed(socket=1472, time=1400572158)
+2014-05-20 15:49:18.497 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	send data ok
+2014-05-20 15:49:18.529 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data(len= 90)
+2014-05-20 15:49:18.530 Level=0 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	recv data ok
+2014-05-20 15:49:18.530 Level=2 class=CCrackCaptchaClient       Func=RequestServer             Err=0         	RequestServer Success
+2014-05-20 15:49:18.549 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8135) success(socket=1392)
+2014-05-20 15:49:18.566 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8354) failed(socket=1420, time=1400572158)
+2014-05-20 15:49:18.567 Level=2 class=CMySocket                 Func=Connect                   Err=0         	Connect server(-540850807:8043) failed(socket=1488, time=1400572158)
+2014-05-20 15:49:18.568 Level=0 class=CCrackCaptchaClient       Func=OnSocketAccepting         Err=0         	[2]connected to server(ip=-540850807, port=8135)
+2014-05-20 15:49:18.569 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Enter InnerLogin
+2014-05-20 15:49:18.570 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	[2]request: seq=2, cmd=48
+2014-05-20 15:49:18.571 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=186)
+2014-05-20 15:49:18.629 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=2, cmd=48, rsp=0
+2014-05-20 15:49:18.630 Level=2 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	xugukent login(softname=test)
+2014-05-20 15:49:18.630 Level=3 class=CCrackCaptchaClient       Func=InnerLogin                Err=0         	Exit InnerLogin(used 62ms)
+2014-05-20 15:49:18.631 Level=3 class=CCrackCaptchaClient       Func=Login                     Err=0         	Exit Login(used 265ms)
+2014-05-20 15:49:18.646 Level=2 class=CCrackCaptchaClient       Func=RequestDecode             Err=0         	start decode: datalen=2087, ext=GIF, len=0, timeout=120, type=101
+2014-05-20 15:49:18.647 Level=3 class=CCrackCaptchaClient       Func=RequestDecode             Err=0         	Exit RequestDecode(used 0ms)
+2014-05-20 15:49:18.648 Level=2 class=CCrackCaptchaClient       Func=GetDecodeResult           Err=0         	start GetResult: processID=3, uTimeout=120000
+2014-05-20 15:49:18.649 Level=0 class=CCrackCaptchaClient       Func=UploadFileThreadFunc      Err=0         	start upload file ...
+2014-05-20 15:49:18.650 Level=2 class=CCrackCaptchaClient       Func=UploadFile                Err=0         	[2]request: seq=4, cmd=59
+2014-05-20 15:49:18.650 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=2189)
+2014-05-20 15:49:18.668 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=4, cmd=59, rsp=0
+2014-05-20 15:49:18.669 Level=0 class=CCrackCaptchaClient       Func=UploadFileThreadFunc      Err=0         	end upload file ...
+2014-05-20 15:49:18.704 Level=2 class=CCrackCaptchaClient       Func=UploadFileThreadFunc      Err=0         	[2]request: seq=3, cmd=53
+2014-05-20 15:49:18.705 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=283)
+2014-05-20 15:49:18.799 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=3, cmd=53, rsp=0
+2014-05-20 15:49:18.799 Level=2 class=CCrackCaptchaClient       Func=InnerGetDecodeResult      Err=0         	[2]request: seq=5, cmd=54
+2014-05-20 15:49:18.800 Level=2 class=CCrackCaptchaClient       Func=OnSocketDataSent          Err=0         	[2]Data sent(len=38)
+2014-05-20 15:49:22.609 Level=2 class=CCrackCaptchaClient       Func=HandleReceivedData        Err=0         	[2]received: seq=5, cmd=54, rsp=0
+2014-05-20 15:49:22.609 Level=2 class=CCrackCaptchaClient       Func=InnerGetDecodeResult      Err=0         	GetDecodeResult success(uProcessID=3, vcodeid=1532936335, VCode=TKUZ)
+2014-05-20 15:49:22.610 Level=0 class=CCrackCaptchaClient       Func=GetDecodeResult           Err=0         	GetResult Success: processID=3, VCode=TKUZ, id=1532936335

@@ -1,0 +1,762 @@
+2014-08-23 10:08:58,090 INFO: log start
+2014-08-23 10:09:09,724 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:09:09,724 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:09:09,739 ERROR: err
+2014-08-23 10:09:09,734 ERROR: err
+2014-08-23 10:09:12,272 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:09:12,276 ERROR: err
+2014-08-23 10:09:15,280 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:09:15,284 ERROR: err
+2014-08-23 10:19:20,675 INFO: log start
+2014-08-23 10:19:26,044 ERROR: err: can not find this user
+2014-08-23 10:22:19,027 INFO: log start
+2014-08-23 10:22:24,058 ERROR: err: can not find this user
+2014-08-23 10:41:29,502 INFO: log start
+2014-08-23 10:43:02,873 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:43:02,886 ERROR: err
+2014-08-23 10:43:04,918 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:43:04,922 ERROR: err
+2014-08-23 10:43:07,929 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:43:07,933 ERROR: err
+2014-08-23 10:43:10,939 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:43:10,943 ERROR: err
+2014-08-23 10:43:17,499 INFO: log start
+2014-08-23 10:43:25,696 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:43:25,700 ERROR: err
+2014-08-23 10:43:28,707 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:43:28,711 ERROR: err
+2014-08-23 10:43:31,719 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:43:31,723 ERROR: err
+2014-08-23 10:45:48,718 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:45:48,722 ERROR: err
+2014-08-23 10:45:51,729 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:45:51,733 ERROR: err
+2014-08-23 10:45:54,740 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:45:54,744 ERROR: err
+2014-08-23 10:45:59,674 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:45:59,679 ERROR: err
+2014-08-23 10:46:03,772 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:03,776 ERROR: err
+2014-08-23 10:46:06,783 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:06,787 ERROR: err
+2014-08-23 10:46:30,868 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:30,873 ERROR: err
+2014-08-23 10:46:33,880 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:33,884 ERROR: err
+2014-08-23 10:46:36,891 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:36,895 ERROR: err
+2014-08-23 10:46:39,902 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:39,906 ERROR: err
+2014-08-23 10:46:42,914 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:42,919 ERROR: err
+2014-08-23 10:46:45,922 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:45,926 ERROR: err
+2014-08-23 10:46:48,934 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:48,938 ERROR: err
+2014-08-23 10:46:51,945 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:51,950 ERROR: err
+2014-08-23 10:46:54,958 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:46:54,962 ERROR: err
+2014-08-23 10:49:01,409 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:01,414 ERROR: err
+2014-08-23 10:49:04,421 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:04,425 ERROR: err
+2014-08-23 10:49:37,540 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:37,544 ERROR: err
+2014-08-23 10:49:40,551 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:40,555 ERROR: err
+2014-08-23 10:49:43,563 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:43,568 ERROR: err
+2014-08-23 10:49:46,574 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:46,579 ERROR: err
+2014-08-23 10:49:49,583 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:49,587 ERROR: err
+2014-08-23 10:49:52,594 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:52,598 ERROR: err
+2014-08-23 10:49:55,605 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:55,609 ERROR: err
+2014-08-23 10:49:58,615 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:49:58,619 ERROR: err
+2014-08-23 10:50:01,617 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:50:01,622 ERROR: err
+2014-08-23 10:50:02,704 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:50:02,704 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:50:02,719 ERROR: err
+2014-08-23 10:50:02,705 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:50:02,704 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:50:02,714 ERROR: err
+2014-08-23 10:50:02,705 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 10:50:02,730 ERROR: err
+2014-08-23 10:50:02,738 ERROR: err
+2014-08-23 10:50:02,746 ERROR: err
+2014-08-23 10:50:04,639 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:50:04,643 ERROR: err
+2014-08-23 10:50:07,648 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:50:07,652 ERROR: err
+2014-08-23 10:50:10,659 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:50:10,663 ERROR: err
+2014-08-23 10:50:34,746 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:50:34,751 ERROR: err
+2014-08-23 10:50:37,758 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:50:37,763 ERROR: err
+2014-08-23 10:50:40,767 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:50:40,771 ERROR: err
+2014-08-23 10:53:31,286 INFO: log start
+2014-08-23 10:53:39,311 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:53:39,314 ERROR: err
+2014-08-23 10:53:42,320 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:53:42,324 ERROR: err
+2014-08-23 10:53:45,332 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:53:45,336 ERROR: err
+2014-08-23 10:53:48,343 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:53:48,347 ERROR: err
+2014-08-23 10:53:51,357 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:53:51,361 ERROR: err
+2014-08-23 10:53:54,365 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:53:54,369 ERROR: err
+2014-08-23 10:53:57,374 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:53:57,378 ERROR: err
+2014-08-23 10:54:00,388 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:00,392 ERROR: err
+2014-08-23 10:54:03,397 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:03,401 ERROR: err
+2014-08-23 10:54:06,408 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:06,413 ERROR: err
+2014-08-23 10:54:09,420 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:09,425 ERROR: err
+2014-08-23 10:54:12,421 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:12,425 ERROR: err
+2014-08-23 10:54:15,439 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:15,444 ERROR: err
+2014-08-23 10:54:18,451 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:18,456 ERROR: err
+2014-08-23 10:54:21,462 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:21,467 ERROR: err
+2014-08-23 10:54:24,474 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:24,479 ERROR: err
+2014-08-23 10:54:27,485 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:27,490 ERROR: err
+2014-08-23 10:54:30,493 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:30,497 ERROR: err
+2014-08-23 10:54:33,505 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:33,510 ERROR: err
+2014-08-23 10:54:36,516 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:36,520 ERROR: err
+2014-08-23 10:54:39,526 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:39,531 ERROR: err
+2014-08-23 10:54:42,539 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:42,543 ERROR: err
+2014-08-23 10:54:45,550 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:45,554 ERROR: err
+2014-08-23 10:54:48,558 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:48,563 ERROR: err
+2014-08-23 10:54:51,572 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:51,576 ERROR: err
+2014-08-23 10:54:54,581 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:54,586 ERROR: err
+2014-08-23 10:54:57,583 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:54:57,587 ERROR: err
+2014-08-23 10:55:00,606 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:55:00,611 ERROR: err
+2014-08-23 10:55:03,612 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 10:55:03,616 ERROR: err
+2014-08-23 11:15:05,499 INFO: log start
+2014-08-23 11:18:17,156 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:18:17,160 ERROR: err
+2014-08-23 11:18:20,166 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:18:20,171 ERROR: err
+2014-08-23 11:18:29,863 ERROR: err: invalid qq accountok
+2014-08-23 11:18:56,295 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:18:56,298 ERROR: err
+2014-08-23 11:22:42,097 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:22:42,100 ERROR: err
+2014-08-23 11:22:47,916 ERROR: err: TitleTask invalid qq account
+2014-08-23 11:27:44,778 ERROR: err:curl_easy_perform() failed:Failure when receiving data from the peer
+2014-08-23 11:35:01,379 INFO: log start
+2014-08-23 11:35:15,593 ERROR: err: TitleTask invalid qq account
+2014-08-23 11:35:27,581 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:28,783 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:31,800 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:34,811 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:37,823 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:40,833 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:43,844 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:46,854 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:49,865 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:52,876 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:55,888 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:35:58,899 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:01,907 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:04,920 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:07,930 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:10,942 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:13,953 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:16,963 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:19,973 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:22,984 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:25,985 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:29,006 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:32,017 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:35,029 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:38,040 ERROR: err:curl_easy_perform() failed:Couldn't connect to server
+2014-08-23 11:36:48,811 INFO: log start
+2014-08-23 11:36:56,884 ERROR: err:Couldn't connect to server
+2014-08-23 11:36:59,884 ERROR: err:Couldn't connect to server
+2014-08-23 11:37:02,906 ERROR: err:Couldn't connect to server
+2014-08-23 11:37:05,916 ERROR: err:Couldn't connect to server
+2014-08-23 11:37:08,927 ERROR: err:Couldn't connect to server
+2014-08-23 13:04:39,303 INFO: log start
+2014-08-23 13:04:47,372 ERROR: err:Couldn't connect to server
+2014-08-23 13:04:51,973 ERROR: err:Couldn't connect to server
+2014-08-23 13:04:54,963 ERROR: err:Couldn't connect to server
+2014-08-23 13:04:57,973 ERROR: err:Couldn't connect to server
+2014-08-23 13:05:01,008 ERROR: err:Couldn't connect to server
+2014-08-23 13:05:04,019 ERROR: err:Couldn't connect to server
+2014-08-23 13:05:07,030 ERROR: err:Couldn't connect to server
+2014-08-23 13:06:01,240 ERROR: err:Couldn't connect to server
+2014-08-23 13:06:04,240 ERROR: err:Couldn't connect to server
+2014-08-23 13:06:07,260 ERROR: err:Couldn't connect to server
+2014-08-23 13:06:10,270 ERROR: err:Couldn't connect to server
+2014-08-23 13:06:46,501 ERROR: err:Couldn't connect to server
+2014-08-23 13:08:46,423 ERROR: err:Couldn't connect to server
+2014-08-23 13:08:49,433 ERROR: err:Couldn't connect to server
+2014-08-23 13:08:52,445 ERROR: err:Couldn't connect to server
+2014-08-23 13:08:55,454 ERROR: err:Couldn't connect to server
+2014-08-23 13:08:58,488 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:01,479 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:04,488 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:07,498 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:10,508 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:13,518 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:16,528 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:19,540 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:22,550 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:25,560 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:28,570 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:31,580 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:34,600 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:37,610 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:40,640 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:43,650 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:46,660 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:49,650 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:52,660 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:55,670 ERROR: err:Couldn't connect to server
+2014-08-23 13:09:58,680 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:01,690 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:04,700 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:07,710 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:10,730 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:13,740 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:16,770 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:19,780 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:22,797 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:25,810 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:28,790 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:31,800 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:34,810 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:37,820 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:40,836 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:43,864 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:46,854 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:53,050 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:56,040 ERROR: err:Couldn't connect to server
+2014-08-23 13:10:59,050 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:02,070 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:05,080 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:08,110 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:11,120 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:14,130 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:17,140 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:20,130 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:23,140 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:26,150 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:29,300 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:32,310 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:35,320 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:38,340 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:41,350 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:44,380 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:47,390 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:50,400 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:53,390 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:56,400 ERROR: err:Couldn't connect to server
+2014-08-23 13:11:59,420 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:02,422 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:05,430 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:08,440 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:11,450 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:14,470 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:17,480 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:20,510 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:23,495 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:26,505 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:29,515 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:32,534 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:35,564 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:38,550 ERROR: err:Couldn't connect to server
+2014-08-23 13:12:41,566 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:27,888 INFO: log start
+2014-08-23 13:24:35,874 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:38,885 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:41,897 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:44,907 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:47,919 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:50,928 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:53,939 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:56,950 ERROR: err:Couldn't connect to server
+2014-08-23 13:24:59,964 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:02,972 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:06,007 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:09,025 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:12,035 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:15,048 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:18,048 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:21,068 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:24,077 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:27,091 ERROR: err:Couldn't connect to server
+2014-08-23 13:25:30,100 ERROR: err:Couldn't connect to server
+2014-08-23 13:26:01,699 INFO: log start
+2014-08-23 13:26:09,601 ERROR: err:Couldn't connect to server
+2014-08-23 13:26:23,796 ERROR: err:Couldn't connect to server
+2014-08-23 13:26:26,792 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:21,970 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:24,965 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:27,973 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:30,985 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:33,996 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:37,008 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:40,021 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:43,019 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:46,038 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:49,050 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:52,061 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:55,063 ERROR: err:Couldn't connect to server
+2014-08-23 13:27:58,083 ERROR: err:Couldn't connect to server
+2014-08-23 13:28:01,095 ERROR: err:Couldn't connect to server
+2014-08-23 13:28:04,106 ERROR: err:Couldn't connect to server
+2014-08-23 13:28:07,115 ERROR: err:Couldn't connect to server
+2014-08-23 13:28:10,126 ERROR: err:Couldn't connect to server
+2014-08-23 13:28:13,138 ERROR: err:Couldn't connect to server
+2014-08-23 13:28:16,149 ERROR: err:Couldn't connect to server
+2014-08-23 13:28:19,157 ERROR: err:Couldn't connect to server
+2014-08-23 13:29:17,726 INFO: log start
+2014-08-23 13:31:21,789 ERROR: err:Couldn't connect to server
+2014-08-23 13:31:35,987 INFO: log start
+2014-08-23 13:31:45,956 ERROR: err:Couldn't connect to server
+2014-08-23 13:31:49,170 ERROR: err:Couldn't connect to server
+2014-08-23 13:31:51,385 ERROR: err:Couldn't connect to server
+2014-08-23 13:31:54,385 ERROR: err:Couldn't connect to server
+2014-08-23 13:31:58,405 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:01,619 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:04,834 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:08,048 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:11,250 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:13,452 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:17,472 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:20,673 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:23,874 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:27,095 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:29,297 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:32,320 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:36,330 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:39,545 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:42,758 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:45,972 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:49,174 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:52,377 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:55,597 ERROR: err:Couldn't connect to server
+2014-08-23 13:32:58,811 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:02,013 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:05,215 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:08,437 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:11,639 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:14,841 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:18,061 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:21,275 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:24,477 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:27,680 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:29,889 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:32,894 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:36,904 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:40,118 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:43,334 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:46,548 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:48,760 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:52,771 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:55,984 ERROR: err:Couldn't connect to server
+2014-08-23 13:33:58,208 ERROR: err:Couldn't connect to server
+2014-08-23 13:34:01,199 ERROR: err:Couldn't connect to server
+2014-08-23 13:34:05,220 ERROR: err:Couldn't connect to server
+2014-08-23 13:34:08,434 ERROR: err:Couldn't connect to server
+2014-08-23 13:34:10,636 ERROR: err:Couldn't connect to server
+2014-08-23 13:34:13,657 ERROR: err:Couldn't connect to server
+2014-08-23 13:36:41,468 INFO: log start
+2014-08-23 13:36:56,448 ERROR: err:Couldn't connect to server
+2014-08-23 13:36:59,651 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:01,873 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:05,868 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:09,081 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:11,295 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:15,297 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:18,499 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:20,729 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:23,703 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:26,732 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:29,734 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:33,745 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:36,960 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:39,173 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:42,183 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:45,196 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:49,206 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:52,419 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:54,634 ERROR: err:Couldn't connect to server
+2014-08-23 13:37:57,633 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:00,644 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:04,655 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:07,858 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:10,089 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:13,070 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:17,082 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:20,297 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:23,500 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:25,702 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:29,718 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:31,933 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:35,944 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:39,157 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:42,372 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:44,575 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:47,593 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:51,606 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:54,809 ERROR: err:Couldn't connect to server
+2014-08-23 13:38:57,017 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:00,029 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:04,040 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:07,242 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:10,444 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:13,666 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:16,869 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:19,085 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:22,086 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:25,107 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:28,098 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:32,109 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:34,318 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:38,328 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:40,543 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:44,552 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:47,767 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:50,970 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:54,172 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:57,381 ERROR: err:Couldn't connect to server
+2014-08-23 13:39:59,583 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:02,590 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:06,609 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:09,825 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:12,028 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:15,050 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:19,049 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:21,250 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:25,269 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:27,484 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:31,483 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:34,686 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:36,895 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:40,900 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:43,115 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:46,114 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:50,138 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:53,340 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:55,545 ERROR: err:Couldn't connect to server
+2014-08-23 13:40:58,567 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:02,571 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:05,773 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:08,975 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:12,183 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:15,385 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:18,608 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:20,810 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:23,828 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:26,850 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:29,852 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:32,852 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:36,864 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:40,072 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:43,285 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:45,500 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:48,509 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:52,510 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:55,712 ERROR: err:Couldn't connect to server
+2014-08-23 13:41:57,933 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:01,925 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:05,140 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:08,356 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:11,558 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:14,760 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:16,969 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:20,976 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:24,179 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:27,387 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:29,600 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:33,610 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:35,825 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:39,835 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:43,049 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:46,264 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:49,467 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:52,675 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:54,889 ERROR: err:Couldn't connect to server
+2014-08-23 13:42:58,898 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:01,101 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:04,122 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:08,133 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:11,349 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:14,562 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:16,764 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:20,788 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:23,990 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:27,192 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:30,400 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:33,602 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:36,824 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:39,027 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:42,047 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:46,057 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:49,273 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:52,474 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:55,676 ERROR: err:Couldn't connect to server
+2014-08-23 13:43:58,897 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:02,112 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:05,314 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:07,515 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:11,533 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:14,737 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:16,945 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:20,956 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:24,170 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:27,372 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:30,575 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:33,795 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:37,009 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:39,212 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:43,221 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:46,422 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:49,645 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:51,847 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:55,868 ERROR: err:Couldn't connect to server
+2014-08-23 13:44:59,082 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:02,297 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:05,500 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:08,701 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:10,922 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:14,915 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:18,130 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:21,333 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:24,536 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:26,757 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:30,748 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:32,963 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:36,974 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:40,188 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:43,402 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:46,605 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:48,808 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:52,824 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:56,038 ERROR: err:Couldn't connect to server
+2014-08-23 13:45:59,242 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:02,450 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:05,663 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:08,877 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:12,080 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:15,283 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:18,492 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:21,693 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:24,914 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:27,129 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:31,139 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:34,354 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:36,556 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:39,577 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:42,588 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:46,599 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:49,803 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:53,025 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:55,250 ERROR: err:Couldn't connect to server
+2014-08-23 13:46:58,259 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:02,260 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:05,475 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:08,679 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:10,900 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:14,896 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:18,111 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:21,314 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:24,536 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:26,751 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:30,751 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:33,952 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:37,173 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:39,387 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:42,398 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:46,399 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:48,602 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:52,618 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:55,832 ERROR: err:Couldn't connect to server
+2014-08-23 13:47:59,034 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:02,242 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:05,458 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:08,660 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:10,867 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:13,878 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:17,891 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:21,104 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:23,318 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:26,328 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:30,339 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:32,552 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:35,563 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:39,563 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:41,764 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:45,783 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:48,986 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:52,188 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:55,409 ERROR: err:Couldn't connect to server
+2014-08-23 13:48:57,612 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:01,634 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:04,835 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:07,036 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:11,054 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:13,269 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:16,278 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:20,289 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:23,505 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:25,706 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:29,729 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:31,943 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:34,952 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:37,953 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:41,972 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:45,188 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:47,403 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:51,411 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:54,625 ERROR: err:Couldn't connect to server
+2014-08-23 13:49:57,841 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:01,043 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:04,250 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:06,465 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:09,475 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:13,486 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:16,700 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:18,903 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:21,914 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:25,933 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:29,148 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:31,364 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:35,363 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:38,566 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:41,787 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:44,990 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:48,197 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:51,399 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:53,610 ERROR: err:Couldn't connect to server
+2014-08-23 13:50:57,619 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:00,834 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:04,047 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:06,261 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:10,270 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:13,486 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:15,700 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:19,698 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:22,899 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:25,120 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:29,115 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:32,330 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:34,545 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:37,555 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:41,565 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:43,767 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:47,790 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:50,993 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:54,201 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:56,415 ERROR: err:Couldn't connect to server
+2014-08-23 13:51:59,434 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:03,435 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:05,639 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:08,661 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:11,672 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:15,683 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:18,885 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:21,087 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:24,115 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:27,113 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:30,125 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:33,138 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:37,147 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:40,363 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:42,577 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:46,585 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:48,800 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:52,799 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:56,001 ERROR: err:Couldn't connect to server
+2014-08-23 13:52:58,223 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:01,217 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:05,229 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:08,432 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:11,639 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:13,853 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:17,864 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:21,079 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:24,292 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:26,494 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:30,515 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:33,729 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:35,944 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:39,955 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:43,158 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:46,365 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:49,581 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:52,784 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:56,005 ERROR: err:Couldn't connect to server
+2014-08-23 13:53:59,220 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:02,423 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:04,631 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:08,644 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:10,858 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:14,866 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:17,081 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:20,099 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:24,103 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:26,316 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:30,326 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:32,540 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:35,552 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:39,561 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:42,775 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:45,989 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:49,192 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:52,395 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:55,603 ERROR: err:Couldn't connect to server
+2014-08-23 13:54:58,804 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:01,036 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:05,020 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:08,236 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:11,449 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:13,673 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:16,674 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:19,691 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:23,694 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:25,919 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:28,920 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:31,919 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:35,941 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:39,156 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:42,358 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:44,559 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:47,586 ERROR: err:Couldn't connect to server
+2014-08-23 13:55:50,587 ERROR: err:Couldn't connect to server
+2014-08-23 21:52:53,899 INFO: log start
+2014-08-24 07:45:47,087 INFO: log start
+2014-08-24 07:47:07,070 INFO: log start
+2014-08-24 07:48:42,558 INFO: log start
+2014-08-24 07:51:03,239 INFO: log start

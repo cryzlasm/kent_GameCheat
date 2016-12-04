@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{470F69AD-5A76-4AA3-9513-049ECCC2B94B}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110_xp</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110_xp</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;CURL_STATICLIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <Optimization>Disabled</Optimization>
+      <ShowIncludes>false</ShowIncludes>
+      <StringPooling>false</StringPooling>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <PrecompiledHeader>Create</PrecompiledHeader>
+      <BrowseInformation>true</BrowseInformation>
+      <AdditionalIncludeDirectories>./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <TargetMachine>MachineX86</TargetMachine>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <UACExecutionLevel>RequireAdministrator</UACExecutionLevel>
+      <AdditionalDependencies>json_vc71_libmtd.lib;log4cppD.lib;Ws2_32.lib;libcurld.lib;wldap32.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>.\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;CURL_STATICLIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <Optimization>Disabled</Optimization>
+      <StringPooling>false</StringPooling>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <PrecompiledHeader>Create</PrecompiledHeader>
+      <BrowseInformation>true</BrowseInformation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <AdditionalIncludeDirectories>./;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <TargetMachine>MachineX86</TargetMachine>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <UACExecutionLevel>RequireAdministrator</UACExecutionLevel>
+      <AdditionalDependencies>json_vc71_libmt.lib;log4cppLIB.lib;Ws2_32.lib;libcurl.lib;wldap32.lib;winmm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>.\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Ckent_request.cpp" />
+    <ClCompile Include="global.cpp" />
+    <ClCompile Include="Kent_ctrlDlg.cpp" />
+    <ClCompile Include="Kent_forever.cpp" />
+    <ClCompile Include="Kent_gameDlg.cpp" />
+    <ClCompile Include="kent_helpDlg.cpp" />
+    <ClCompile Include="kent_herosDlg.cpp" />
+    <ClCompile Include="Kent_log.cpp" />
+    <ClCompile Include="kent_registerDlg.cpp" />
+    <ClCompile Include="kent_reg_login.cpp" />
+    <ClCompile Include="kent_reg_login_ever.cpp" />
+    <ClCompile Include="kent_reg_modifyDlg.cpp" />
+    <ClCompile Include="kent_reg_modify_everDlg.cpp" />
+    <ClCompile Include="kent_reg_rechargeDlg.cpp" />
+    <ClCompile Include="kent_reg_recharge_everDlg.cpp" />
+    <ClCompile Include="kent_reg_regDlg.cpp" />
+    <ClCompile Include="kent_reg_reg_everDlg.cpp" />
+    <ClCompile Include="kent_studioDlg.cpp" />
+    <ClCompile Include="kent_windows.cpp" />
+    <ClCompile Include="Md5.cpp" />
+    <ClCompile Include="menuDlg.cpp" />
+    <ClCompile Include="script.cpp" />
+    <ClCompile Include="StdAfx.cpp" />
+    <ClCompile Include="vc6.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CClouds_c.h" />
+    <ClInclude Include="CDama2Ctrl.h" />
+    <ClInclude Include="Cdm_basis.h" />
+    <ClInclude Include="Cdyf.h" />
+    <ClInclude Include="Ckent_request.h" />
+    <ClInclude Include="CTSPlugInterFace.h" />
+    <ClInclude Include="Cv901.h" />
+    <ClInclude Include="dm.h" />
+    <ClInclude Include="global.h" />
+    <ClInclude Include="Kent_ctrlDlg.h" />
+    <ClInclude Include="Kent_forever.h" />
+    <ClInclude Include="Kent_gameDlg.h" />
+    <ClInclude Include="kent_helpDlg.h" />
+    <ClInclude Include="kent_herosDlg.h" />
+    <ClInclude Include="Kent_log.h" />
+    <ClInclude Include="kent_registerDlg.h" />
+    <ClInclude Include="kent_reg_login.h" />
+    <ClInclude Include="kent_reg_login_ever.h" />
+    <ClInclude Include="kent_reg_modifyDlg.h" />
+    <ClInclude Include="kent_reg_modify_everDlg.h" />
+    <ClInclude Include="kent_reg_rechargeDlg.h" />
+    <ClInclude Include="kent_reg_recharge_everDlg.h" />
+    <ClInclude Include="kent_reg_regDlg.h" />
+    <ClInclude Include="kent_reg_reg_everDlg.h" />
+    <ClInclude Include="kent_studioDlg.h" />
+    <ClInclude Include="kent_whole.h" />
+    <ClInclude Include="kent_windows.h" />
+    <ClInclude Include="Md5.h" />
+    <ClInclude Include="menuDlg.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="script.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="vc6.h" />
+    <ClInclude Include="VMProtectSDK.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="vc6.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\vc6.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\EVER.ico" />
+    <Image Include="res\icon1.ico" />
+    <Image Include="res\vc6.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="vc6.rc" _x007B_FEB55880-99B5-4737-8EDA-770DA4A20ACB_x007D_="CDama2Ctrl" _x007B_0EF83CA6-D06B-44D1-88B9-AFB6188C4BDF_x007D_="Csydtdll" _x007B_EB2545DE-E72B-465C-8B41-9AB56F66267D_x007D_="CCaptchaRecognizer" _x007B_BCE4A484-C3BC-418B-B1F6-69D6987C126B_x007D_="CTSPlugInterFace" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
